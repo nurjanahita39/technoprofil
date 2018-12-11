@@ -10,9 +10,9 @@
         <div class="row">
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/polije.jpg" alt="">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/andys.jpg" alt="">
               <h4>Andys Saputra</h4>
-              <p class="text-muted">as</p>
+              <p class="text-muted">Coordinator</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
@@ -34,9 +34,9 @@
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/polije.jpg" alt="">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/ita.jpg" alt="">
               <h4>Ita Nurjanah</h4>
-              <p class="text-muted">asr</p>
+              <p class="text-muted">as administrator</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
@@ -58,7 +58,7 @@
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/3.jpg" alt="">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/gita.jpg" alt="">
               <h4>Diana Pertersen</h4>
               <p class="text-muted">Lead Developer</p>
               <ul class="list-inline social-buttons">
