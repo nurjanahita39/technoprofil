@@ -60,7 +60,7 @@
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/gita.jpeg" alt="">
               <h4>Gita Nuraini</h4>
-              <p class="text-muted">as Marketing/p>
+              <p class="text-muted">as Marketing</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
