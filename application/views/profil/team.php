@@ -80,6 +80,54 @@
               </ul>
             </div>
           </div>
+            <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/david.jpeg" alt="">
+              <h4>David Bristy</h4>
+              <p class="text-muted">as Load Programmer</p>
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+            <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/yusuf.jpeg" alt="">
+              <h4>Yusuf</h4>
+              <p class="text-muted">Load Programmer</p>
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
