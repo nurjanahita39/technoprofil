@@ -19,7 +19,7 @@
             </a>
             <div class="portfolio-caption">
               <h4>Threads</h4>
-              <p class="text-muted">Illustration</p>
+              <p class="text-muted">Sistem Informasi Apotek</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
