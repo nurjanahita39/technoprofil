@@ -46,6 +46,13 @@
               <p class="text-muted">Sebagai Marketing</p>
             </div>
           </div>
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/reza.jpeg" alt="">
+              <h4>Reza Fikran</h4>
+              <p class="text-muted">Sebagai Designer</p>
+            </div>
+          </div>
             <div class="col-sm-4">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/david.jpeg" alt="">
