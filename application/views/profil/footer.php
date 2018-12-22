@@ -1,5 +1,3 @@
-
-
     <!-- Footer -->
     <footer>
       <div class="container">
@@ -56,18 +54,18 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <h2 class="text-uppercase">Sistem Informasi Apotek</h2>
+                  <p class="item-intro text-muted">Sistem Informasi penjualan obat berbasis desktop.</p>
+                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url() ?>assets/img/portfolio/1.jpg" alt="">
+                  <p>Sistem Informasi Apotek adalah sistem informasi desktop yang berfokus pada penjualan obat dan alat-alat kesehatan lainnya dan dilengkapi dengan berbagai fitur yang dibutuhkan oleh apoteker.</p>
                   <ul class="list-inline">
-                    <li>Date: January 2017</li>
-                    <li>Client: Threads</li>
-                    <li>Category: Illustration</li>
+                    <li>Tanggal: 18 Desember 2018</li>
+                    <li>Developer: Yenilik Techno</li>
+                    <li>Kategori: Desktop</li>
                   </ul>
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
-                    Close Project</button>
+                    Tutup</button>
                 </div>
               </div>
             </div>
@@ -90,18 +88,18 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <h2 class="text-uppercase">Wisata Jember</h2>
+                  <p class="item-intro text-muted">Website tentang informasi wisata yang ada di Kabupaten Jember.</p>
+                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url() ?>assets/img/portfolio/Wisjem.jpg" alt="">
+                  <p>Wisata Jember merupakan website informasi semua wisata khususnya wisata-wisata alam seperti Pantai, Gunung, dan Air terjun yang ada di Kabupaten Jember.</p>
                   <ul class="list-inline">
-                    <li>Date: January 2017</li>
-                    <li>Client: Explore</li>
-                    <li>Category: Graphic Design</li>
+                    <li>Tanggal: 18 Desember 2018</li>
+                    <li>Developer: Yenilik Techno</li>
+                    <li>Kategori: Website</li>
                   </ul>
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
-                    Close Project</button>
+                    Tutup</button>
                 </div>
               </div>
             </div>

@@ -3,8 +3,8 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Portfolio</h2>
-            <h3 class="section-subheading text-muted">Kita</h3>
+            <h2 class="section-heading text-uppercase">Portofolio</h2>
+            <h3 class="section-subheading text-muted">Portofolio produk-produk dari tim kami</h3>
           </div>
         </div>
         <div class="row">
@@ -15,10 +15,10 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="<?php echo base_url() ?>assets/img/portfolio/01-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="<?php echo base_url() ?>assets/img/portfolio/1.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Threads</h4>
+              <h4>Desktop</h4>
               <p class="text-muted">Sistem Informasi Apotek</p>
             </div>
           </div>
@@ -29,11 +29,15 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
+<<<<<<< HEAD
               <img class="img-fluid" src="<?php echo base_url() ?>assets/img/portfolio/beranda.PNG" alt="">
+=======
+              <img class="img-fluid" src="<?php echo base_url() ?>assets/img/portfolio/Wisata.jpg" alt="">
+>>>>>>> mulai
             </a>
             <div class="portfolio-caption">
-              <h4>Explore</h4>
-              <p class="text-muted">Graphic Design</p>
+              <h4>Web</h4>
+              <p class="text-muted">Wisata Jember</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">

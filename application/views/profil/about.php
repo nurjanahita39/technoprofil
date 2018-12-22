@@ -23,7 +23,7 @@
           </div>
           <div class="col-md-3">
             <span class="fa-stack fa-3x">
-              <i><img src="<?php echo base_url() ?>assets/img/about/creative64.png" alt=""></i>
+              <i><img src="<?php echo base_url() ?>assets/img/about/creativey64.png" alt=""></i>
               </span>
             <h4 class="service-heading">Berkualitas</h4>
             <p class="text-muted">kualitas yang kami tawarkan tidak kalah saing</p>
@@ -50,7 +50,7 @@
           <div class="row text-center">
           <div class="col-md-3">
             <span class="fa-stack fa-3x">
-              <i><img  src="<?php echo base_url() ?>assets/img/about/komunikasi.png" alt=""></i>
+              <i><img  src="<?php echo base_url() ?>assets/img/about/group.png" alt=""></i>
             </span>
 <!--            <h4 class="service-heading">Komunikasi</h4>-->
             <p class="text-muted">komunikasikan</p>
@@ -64,14 +64,14 @@
           </div>
           <div class="col-md-3">
             <span class="fa-stack fa-3x">
-             <i><img src="<?php echo base_url() ?>assets/img/about/sepakat32.png" alt=""></i>
+             <i><img src="<?php echo base_url() ?>assets/img/about/handshakey64.png" alt=""></i>
             </span>
 <!--            <h4 class="service-heading">Aman Terpercaya</h4>-->
             <p class="text-muted">Kesepakatan</p>
           </div>
             <div class="col-md-3">
             <span class="fa-stack fa-3x">
-             <i><img class="rounded-circle img-fluid" src="<?php echo base_url() ?>assets/img/about/act.png" alt=""></i>
+             <i><img class="rounded-circle img-fluid" src="<?php echo base_url() ?>assets/img/about/connectiony64.png" alt=""></i>
             </span>
 <!--            <h4 class="service-heading">Bergaransi</h4>-->
             <p class="text-muted">Bekerja</p>
