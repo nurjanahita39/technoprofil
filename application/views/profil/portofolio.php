@@ -32,7 +32,7 @@
               <img class="img-fluid" src="<?php echo base_url() ?>assets/img/portfolio/Wisata.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Web</h4>
+              <h4>Website</h4>
               <p class="text-muted">Wisata Jember</p>
             </div>
           </div>
