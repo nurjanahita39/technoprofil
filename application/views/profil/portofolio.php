@@ -29,12 +29,8 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-<<<<<<< HEAD
-              <img class="img-fluid" src="<?php echo base_url() ?>assets/img/portfolio/beranda.PNG" alt="">
-=======
               <img class="img-fluid" src="<?php echo base_url() ?>assets/img/portfolio/Wisata.jpg" alt="">
->>>>>>> mulai
-            </a>
+           </a>
             <div class="portfolio-caption">
               <h4>Website</h4>
               <p class="text-muted">Wisata Jember</p>
