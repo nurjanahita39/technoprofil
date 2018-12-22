@@ -7,7 +7,7 @@
                 <br>
                 <br><br>
               <font size="5pt">
-                  <img src="<?php echo base_url() ?>assets/img/about/friends.png" alt="" width="30px" height="30px">
+                  <img src="<?php echo base_url() ?>assets/img/about/friends64.png" alt="" width="30px" height="30px">
                 &nbsp; &nbsp;Kenapa harus kami?
                 </font>
               </h3>
@@ -16,28 +16,28 @@
         <div class="row text-center">
           <div class="col-md-3">
             <span class="fa-stack fa-3x">
-              <i><img  src="<?php echo base_url() ?>assets/img/about/tie64.png" alt=""></i>
+              <i><img  src="<?php echo base_url() ?>assets/img/about/tie.png" alt=""></i>
             </span>
             <h4 class="service-heading">Professional</h4>
             <p class="text-muted">Bekerjasama dengan professional bersama orang-orang yang ahli pada bidangnya</p>
           </div>
           <div class="col-md-3">
             <span class="fa-stack fa-3x">
-              <i><img src="<?php echo base_url() ?>assets/img/about/creative64.png" alt=""></i>
+              <i><img src="<?php echo base_url() ?>assets/img/about/creative.png" alt=""></i>
               </span>
             <h4 class="service-heading">Berkualitas</h4>
             <p class="text-muted">kualitas yang kami tawarkan tidak kalah saing</p>
           </div>
           <div class="col-md-3">
             <span class="fa-stack fa-3x">
-             <i><img src="<?php echo base_url() ?>assets/img/about/key.png" alt=""></i>
+             <i><img src="<?php echo base_url() ?>assets/img/about/key64.png" alt=""></i>
             </span>
             <h4 class="service-heading">Aman Terpercaya</h4>
             <p class="text-muted">Terjamin keamanannya dan terpercaya!</p>
           </div>
             <div class="col-md-3">
             <span class="fa-stack fa-3x">
-             <i><img class="rounded-circle img-fluid" src="<?php echo base_url() ?>assets/img/about/setting.png" alt=""></i>
+             <i><img class="rounded-circle img-fluid" src="<?php echo base_url() ?>assets/img/about/setting64.png" alt=""></i>
             </span>
             <h4 class="service-heading">Bergaransi</h4>
             <p class="text-muted">Bergaransi sesuai kesepakatan</p>
@@ -50,28 +50,28 @@
           <div class="row text-center">
           <div class="col-md-3">
             <span class="fa-stack fa-3x">
-              <i><img  src="<?php echo base_url() ?>assets/img/about/komunikasi.png" alt=""></i>
+              <i><img  src="<?php echo base_url() ?>assets/img/about/tie.png" alt=""></i>
             </span>
 <!--            <h4 class="service-heading">Komunikasi</h4>-->
             <p class="text-muted">komunikasikan</p>
           </div>
           <div class="col-md-3">
             <span class="fa-stack fa-3x">
-              <i><img src="<?php echo base_url() ?>assets/img/about/konsultasi.png" alt=""></i>
+              <i><img src="<?php echo base_url() ?>assets/img/about/creative.png" alt=""></i>
               </span>
 <!--            <h4 class="service-heading">Berkualitas</h4>-->
             <p class="text-muted">Konsultasi</p>
           </div>
           <div class="col-md-3">
             <span class="fa-stack fa-3x">
-             <i><img src="<?php echo base_url() ?>assets/img/about/sepakat32.png" alt=""></i>
+             <i><img src="<?php echo base_url() ?>assets/img/about/key64.png" alt=""></i>
             </span>
 <!--            <h4 class="service-heading">Aman Terpercaya</h4>-->
             <p class="text-muted">Kesepakatan</p>
           </div>
             <div class="col-md-3">
             <span class="fa-stack fa-3x">
-             <i><img class="rounded-circle img-fluid" src="<?php echo base_url() ?>assets/img/about/act.png" alt=""></i>
+             <i><img class="rounded-circle img-fluid" src="<?php echo base_url() ?>assets/img/about/setting64.png" alt=""></i>
             </span>
 <!--            <h4 class="service-heading">Bergaransi</h4>-->
             <p class="text-muted">Bekerja</p>
