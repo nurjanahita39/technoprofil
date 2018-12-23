@@ -6,9 +6,28 @@ class Profil extends CI_Controller {
 	
 	function __construct(){
 		parent::__construct();
+		$this->load->model('m_data');
 		$this->load->helper('url');
 	}
- 
+	
+ 	function tambah(){
+		$this->load->view('profil/contact');
+	}
+
+	function tambah_aksi(){
+		$name = $this->input->post('name');
+		$email = $this->input->post('email');
+		$phone = $this->input->post('phone');
+		$message = $this->input->post('message');
+		$data = array(
+			'name' => $name,
+			'email' => $email,
+			'phone' => $phone,
+			'message' => $message
+			 );
+		$this->m_data->input_data($data,'kontak');
+		redirect('profil/index');
+	}
 	public function index(){		
 		$this->load->view('profil/header');
 		$this->load->view('profil/services');
