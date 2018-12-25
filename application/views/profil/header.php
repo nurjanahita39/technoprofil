@@ -17,6 +17,7 @@
 
     <!-- Custom fonts for this template -->
     <!--<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/vendor/fontawesome-free/css/all.css" />-->
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/font/fontawesome.css')?>">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
