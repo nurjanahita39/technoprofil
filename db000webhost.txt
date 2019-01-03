@@ -1,0 +1,7 @@
+database 
+
+
+
+db name : yenilikdb
+db username : root
+psswd : yenilik
