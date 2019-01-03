@@ -13,6 +13,23 @@
               <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/andys.jpeg" alt="">
               <h4>Andys Saputra</h4>
               <p class="text-muted">Sebagai Koordinator kerja</p>
+               <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="https://www.instagram.com/saputraandys/">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://www.facebook.com/profile.php?id=100004105462128">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                </li>
+              </ul>
             </div>
           </div>
           <div class="col-sm-4">
@@ -20,10 +37,106 @@
               <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/ita.jpeg" alt="">
               <h4>Ita Nurjanah</h4>
               <p class="text-muted">Sebagai Administrator</p>
-              <!-- <ul class="list-inline social-buttons">
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="https://www.instagram.com/ita.nurjanah_/">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://www.facebook.com/ita.nur.3363">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
                 <li class="list-inline-item">
                   <a href="#">
-                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/gita.jpeg" alt="">
+              <h4>Gita Nuraini</h4>
+              <p class="text-muted">Sebagai Marketing</p>
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="https://www.instagram.com/nuraini.gitaa/">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://www.facebook.com/gita.nuraini.39">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/reza.jpeg" alt="">
+              <h4>Reza Fikran</h4>
+              <p class="text-muted">Sebagai Designer</p>
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="https://www.instagram.com/rezafm1608/">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://www.facebook.com/rezafikranmadani">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+            <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/david.jpeg" alt="">
+              <h4>David Bristian</h4>
+              <p class="text-muted">Sebagai Programer</p>
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="https://www.instagram.com/davidbristian/">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://www.facebook.com/davidbristiantara">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+            <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/yusuf.jpeg" alt="">
+              <h4>Yusuf Tri Wibowo</h4>
+              <p class="text-muted">Sebagai Programmer</p>
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="https://www.instagram.com/yusuftriwibowo015/">
+                    <i class="fab fa-instagram"></i>
                   </a>
                 </li>
                 <li class="list-inline-item">
@@ -36,35 +149,7 @@
                     <i class="fab fa-linkedin-in"></i>
                   </a>
                 </li>
-              </ul> -->
-            </div>
-          </div>
-          <div class="col-sm-4">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/gita.jpeg" alt="">
-              <h4>Gita Nuraini</h4>
-              <p class="text-muted">Sebagai Marketing</p>
-            </div>
-          </div>
-          <div class="col-sm-4">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/reza.jpeg" alt="">
-              <h4>Reza Fikran</h4>
-              <p class="text-muted">Sebagai Designer</p>
-            </div>
-          </div>
-            <div class="col-sm-4">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/david.jpeg" alt="">
-              <h4>David Bristy</h4>
-              <p class="text-muted">Sebagai Programer</p>
-            </div>
-          </div>
-            <div class="col-sm-4">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url() ?>assets/img/team/yusuf.jpeg" alt="">
-              <h4>Yusuf</h4>
-              <p class="text-muted">Sebagai Programmer</p>
+              </ul>
             </div>
           </div>
         </div>
