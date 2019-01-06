@@ -8,6 +8,8 @@ class Login extends CI_Controller
 	function __construct()
 	{
 		parent::__construct();
+		$this->load->helper('url');
+		$this->load->helper('session');
 		$this->load->model('m_login');
 	}
 	function index(){
